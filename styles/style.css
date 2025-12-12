@@ -47,6 +47,7 @@ main img {
     margin-right: 80px;
 }
 
+
 /*Clone Wars Page Styles*/
 #clonewars {
     margin-bottom: 50px;
@@ -94,6 +95,7 @@ main img {
     margin-bottom: 15px;
     font-size: 1.5em;
 }
+
 .headers:hover {
     color: #D4AF37;
     text-shadow: 2px 2px 2px #3A506B;
